@@ -1,2 +1,2 @@
 # UMA-Computaci-n
-Ejercicios de tarea y hechos en clase.
+Ejercicios de tarea y echos en clase.
